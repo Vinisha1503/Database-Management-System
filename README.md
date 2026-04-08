@@ -1,4 +1,4 @@
-# Database-Management-System
+# Database Management System
 Database application with Tkinter GUI and PostgreSQL integration for managing students, exams, and results using SQL queries.
 
 <img width="499" height="467" alt="image" src="https://github.com/user-attachments/assets/7b8d9781-e67b-4fa8-b023-cbf87ce789b1" />
